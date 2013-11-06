@@ -3,6 +3,8 @@ jpa-testcase
 
 Install Eclipse
 
+Install git
+
 $ git clone https://github.com/it-raum/jpa-testcase.git
 
 $ ./gradlew eclipse
